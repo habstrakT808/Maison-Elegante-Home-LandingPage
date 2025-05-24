@@ -29,7 +29,7 @@ Check out the live demo: [Maison Élégante](https://neon-piroshki-05105f.netlif
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/maison-elegante.git
+   git clone https://github.com/habstrakT808/Maison-Elegante-Home-LandingPage.git
    ```
 
 2. Navigate to the project directory:
@@ -115,9 +115,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Hafiyan Al Muqaffi Umary - [@hafiyan_a_u](https://instagram.com/hafiyan_a_u) - jhodywiraputra@gmail.com
 
-Project Link: [https://github.com/yourusername/maison-elegante](https://github.com/yourusername/maison-elegante)
+Project Link: [https://github.com/habstrakT808/Maison-Elegante-Home-LandingPage.git](https://github.com/habstrakT808/Maison-Elegante-Home-LandingPage.git)
 
 ## 🙏 Acknowledgments
 
